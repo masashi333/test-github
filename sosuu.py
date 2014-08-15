@@ -12,3 +12,4 @@ def prime1(n):
 prime1(100)
 prime2(50)
 prime3(300)
+prime5(30)
